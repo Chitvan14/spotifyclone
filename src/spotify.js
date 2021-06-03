@@ -24,3 +24,6 @@ export const getTokenFromUrl = () =>{
     },{});
 }
 export const loginUrl = `${authEndpoint}?client_id=${clientId}&redirect_uri=${redirectUri}&scope=${scopes.join("%20")}&response_type=token&show_dialog=true`;
+
+
+// export const loginUrlSimplified =  "https://accounts.spotify.com/authorize?client_id=2a2fe2a1cfce42759374384f5a339ffd&response_type=code&redirect_uri=http://localhost:3000/&scope=streaming%20user-read-email%20user-read-private%20user-library-read%20user-library-modify%20user-read-playback-state%20user-modify-playback-state"

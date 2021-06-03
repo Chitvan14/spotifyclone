@@ -1,14 +1,16 @@
 import React from 'react';
 import './Login.css';
 import { loginUrl } from './spotify';
+// import { loginUrlSimplified } from './spotify';
 
 function Login() {
     return (
         <div className="login">
            
-            <img src="https://getheavy.com/wp-content/uploads/2019/12/spotify2019-830x350.jpg"
+            <img src="spotify2021logo.gif"
             alt="spotifyLogo"/>
             <a href={loginUrl}>LOGIN WITH SPOTIFY</a>
+            {/* <a href={loginUrlSimplified }>LOGIN WITH SPOTIFY Simplified</a> */}
         </div>
     );
 }
