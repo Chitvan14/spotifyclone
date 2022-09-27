@@ -8,17 +8,6 @@
   </a>
 </p>
 
-
-
-
-<!-- ## 🏅💻 Hacktoberfest21
-![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
-
-Hacktoberfest is back this year! 
-
-Hacktoberfest is an annual month-long celebration of open source organised every year by DIgital Ocean. Every participant who follows their set of rules and get 4 Pull Requests (PRs) merged will receive swags. For the past years, learners have been hacking throughout October in the open-source community, and this 8th year you can avail yourself the opportunity to partake and contribute to this ever-growing platform. -->
-
-
 ## 💻Tech Stack
 <h4> <i> This project will be soon again under construction. </i> </h4>
 <h3>Project Link: <code><a href="https://spotifyclone-bice.vercel.app/"> https://spotifyclone-bice.vercel.app/ </a> </code> </h3>
