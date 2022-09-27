@@ -20,7 +20,7 @@ Hacktoberfest is an annual month-long celebration of open source organised every
 
 
 ## 💻Tech Stack
-<h4> <i> This project is completed under the guidance of Clever Programmer. </i> </h4>
+<h4> <i> This project will be soon again under construction. </i> </h4>
 <h3>Project Link: <code><a href="https://spotifyclone-bice.vercel.app/"> https://spotifyclone-bice.vercel.app/ </a> </code> </h3>
  
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
